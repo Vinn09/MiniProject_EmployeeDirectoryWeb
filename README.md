@@ -32,9 +32,10 @@ The app is also equipped with **login and register** features using the Reqres A
 - `git clone https://github.com/Vinn09/MiniProject_EmployeeDirectoryWeb.git`
 - `cd MiniProject_EmployeeDirectoryWeb`
 2. Install dependencies
-- `npm intsall`
+- `npm install`
 3. Run the development server
 - `npm run dev`
+
 Note: Make sure you have Node.js and npm installed on your system.
 
 ## API Endpoints Used
